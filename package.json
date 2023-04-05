@@ -1,0 +1,22 @@
+{
+  "name": "is-june",
+  "version": "1.0.0",
+  "description": "Is the string june?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniarto-samsudin/is-june-npm-package.git"
+  },
+  "keywords": [
+    "june"
+  ],
+  "author": "juniarto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniarto-samsudin/is-june-npm-package/issues"
+  },
+  "homepage": "https://github.com/juniarto-samsudin/is-june-npm-package#readme"
+}
